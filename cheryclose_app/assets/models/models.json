@@ -1,0 +1,53 @@
+[
+  {
+    "id": "tiggo4",
+    "name": "Tiggo 4 Pro",
+    "image": "https://storage.googleapis.com/sample-chery/tiggo4.png",
+    "basePrice": 399900,
+    "warranty": "10-yr/1M km engine warranty",
+    "keyBullets": [
+      "Turbo power with smart driver aids",
+      "Spacious cabin with modern tech",
+      "Affordable running costs"
+    ],
+    "hybridNotes": "Mild hybrid option keeps fuel bills low without complexity.",
+    "rivalCompare": [
+      {"rival": "VW T-Cross", "bullet": "More standard safety tech"},
+      {"rival": "Hyundai Venue", "bullet": "Longer engine warranty"}
+    ]
+  },
+  {
+    "id": "tiggo7",
+    "name": "Tiggo 7 Pro",
+    "image": "https://storage.googleapis.com/sample-chery/tiggo7.png",
+    "basePrice": 479900,
+    "warranty": "10-yr/1M km engine warranty",
+    "keyBullets": [
+      "Luxury touches at family-friendly pricing",
+      "Advanced ADAS safety suite",
+      "Panoramic roof and digital cockpit"
+    ],
+    "hybridNotes": "Plug-in hybrid arriving soon; easy to charge at home.",
+    "rivalCompare": [
+      {"rival": "Haval H6", "bullet": "Lower total cost of ownership"},
+      {"rival": "Toyota RAV4", "bullet": "Longer warranty with similar tech"}
+    ]
+  },
+  {
+    "id": "omoda",
+    "name": "Omoda C5",
+    "image": "https://storage.googleapis.com/sample-chery/omoda.png",
+    "basePrice": 509900,
+    "warranty": "10-yr/1M km engine warranty",
+    "keyBullets": [
+      "Bold coupe SUV styling",
+      "Advanced connectivity and voice control",
+      "Hybrid-ready platform"
+    ],
+    "hybridNotes": "EV variant in 2024; highlight regenerative braking benefits.",
+    "rivalCompare": [
+      {"rival": "Toyota Corolla Cross", "bullet": "More spec standard"},
+      {"rival": "Hyundai Kona", "bullet": "Roomier cabin"}
+    ]
+  }
+]

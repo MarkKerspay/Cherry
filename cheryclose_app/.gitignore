@@ -1,0 +1,29 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.melos_tool
+pubspec.lock
+
+# Visual Studio Code
+.vscode/
+
+# Android
+**/local.properties
+**/.gradle/
+**/GeneratedPluginRegistrant.java
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+
+# Gradle wrapper
+**/gradle/wrapper/gradle-wrapper.jar
