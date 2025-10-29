@@ -1,0 +1,57 @@
+{
+  "followUpPlans": [
+    {
+      "id": "default",
+      "name": "10-day nudge",
+      "steps": [
+        {"dayOffset": 0, "templateId": "thanks_brochure"},
+        {"dayOffset": 2, "templateId": "value_reminder"},
+        {"dayOffset": 5, "templateId": "test_drive_nudge"},
+        {"dayOffset": 10, "templateId": "offer_update"}
+      ]
+    }
+  ],
+  "messageTemplates": [
+    {
+      "id": "thanks_brochure",
+      "name": "Thanks & brochure",
+      "body": "Hi {{lead.name}}! Thanks for the chat about the {{model}}. Here’s the quick facts sheet. Shout if you want finance options.",
+      "tone": "friendly"
+    },
+    {
+      "id": "value_reminder",
+      "name": "Value reminder",
+      "body": "{{lead.name}}, just a reminder the {{model}} includes {{sellingPoint}} as standard. Happy to arrange a quick call today?",
+      "tone": "friendly"
+    },
+    {
+      "id": "test_drive_nudge",
+      "name": "Test drive nudge",
+      "body": "The {{model}} is ready for a 10-minute test drive this week. What suits you best?",
+      "tone": "friendly"
+    },
+    {
+      "id": "offer_update",
+      "name": "Offer update",
+      "body": "Last call for the accessory bonus on {{model}} this week. Should I secure one in your colour?",
+      "tone": "friendly"
+    }
+  ],
+  "objections": [
+    {
+      "id": "parts",
+      "title": "Parts & service?",
+      "body": "Chery’s network and support keep you moving. Plus, that engine warranty (T&Cs apply) builds long-term confidence. I can show you service intervals—want the PDF?"
+    },
+    {
+      "id": "resale",
+      "title": "Resale value?",
+      "body": "Value-packed spec keeps demand strong. You save upfront and on running costs—happy to show total cost over 5 years."
+    },
+    {
+      "id": "hybrid",
+      "title": "Hybrid worry?",
+      "body": "No complicated steps. You fuel as normal (or light charging if PHEV). We focus on saving at the pump and smooth driving."
+    }
+  ]
+}

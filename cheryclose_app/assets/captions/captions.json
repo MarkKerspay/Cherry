@@ -1,0 +1,20 @@
+[
+  {
+    "id": "value",
+    "modelId": "tiggo4",
+    "title": "Value",
+    "body": "{{model}} — packed with smart tech & space, from ~R{{fromPrice}} p/m* and {{warranty}} peace of mind. Want a 10-min test drive? Reply ‘TEST’."
+  },
+  {
+    "id": "hybrid",
+    "modelId": "omoda",
+    "title": "Hybrid curiosity",
+    "body": "Thinking lower fuel bills? {{model}} Hybrid keeps it simple—no fuss, great drive. Quick costs & trade-in? Reply ‘HYB’."
+  },
+  {
+    "id": "family",
+    "modelId": "tiggo7",
+    "title": "Family",
+    "body": "School runs & weekend escapes sorted. {{model}} with safety tech and space to breathe. Want finance options? Reply ‘FIN’."
+  }
+]
